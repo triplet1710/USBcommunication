@@ -1,0 +1,56 @@
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\usblibrary.dll
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\usblibrary.dll
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Documents\Zalo Received Files\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\usblibrary.dll
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\PC\Desktop\gui (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\usblibrary.dll
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Documents\Zalo Received Files\gui (2) (1)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
